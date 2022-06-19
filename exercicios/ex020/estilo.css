@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div > p#p2 {
+    display: none;
+}
+
+div:hover > p#p2 {
+    display: block;
+}

@@ -1,0 +1,11 @@
+body {
+    background-color: gray;
+}
+
+body#verde {
+    background-color: green;
+}
+
+body#amarelo {
+    background-color: yellow;
+}
